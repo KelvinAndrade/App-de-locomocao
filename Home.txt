@@ -2,3 +2,5 @@ Bem vindo/a
 Horário atual
 Valor das corridas
 Clima tempo
+Horário de chegada do transporte
+Porcentagem do valor a mudar conforme o tempo
