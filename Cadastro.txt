@@ -1,3 +1,5 @@
 Nome Completo
 Email
 Número de Telefone
+Foto frente e verso do RG
+CPF

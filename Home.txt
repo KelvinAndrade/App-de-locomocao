@@ -1,3 +1,4 @@
 Bem vindo/a
 Horário atual
 Valor das corridas
+Clima tempo
